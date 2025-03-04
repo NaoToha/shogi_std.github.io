@@ -1,0 +1,1 @@
+# shogi_std.github.io
