@@ -1,0 +1,17 @@
+Version: 1.0
+ProjectId: c7d0339a-65d8-4953-8b67-3ff83a00d3a0
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+BuildType: Website
+WebsitePath: ~/shogi_std/draft

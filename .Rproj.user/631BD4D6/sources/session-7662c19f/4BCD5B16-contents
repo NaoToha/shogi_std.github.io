@@ -1,0 +1,20 @@
+name: "将棋序盤研究"
+navbar: 
+  left:
+    - text: "ホーム"
+      href: index.html
+    - text: "将棋"
+      href: shogi.html
+output: 
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    toc: true
+    toc_float:
+      collapse: false
+    df_print: "kable"
+    incluldes:
+      after_body: footer.html
+    css: site_style.css
+output_dir: "docs"
+  
